@@ -1,4 +1,4 @@
-# ☁️ AWS Cloud + Security Portfolio Projects (Q1 2025)
+# ☁️ AWS Cloud + Security Portfolio Projects (Q1-Q4 2025)
 
 Welcome to my curated set of foundational AWS projects designed to showcase cloud, security, and automation skills aligned with real-world use cases. These projects are beginner-to-intermediate in scope and demonstrate my readiness for cloud engineering, DevSecOps, and security analyst roles.
 
